@@ -1,27 +1,27 @@
 [
  {
    "ImageURL": "https://placeimg.com/640/480/animals",
-   "PageURL": "https://github.com/russc/image-alt-text/after.html",
+   "PageURL": "https://russc.github.io/image-alts/after.html",
    "AltText": "Animals"
  },
  {
    "ImageURL": "https://placeimg.com/640/480/people",
-   "PageURL": "https://github.com/russc/image-alt-text/after.html",
+   "PageURL": "https://russc.github.io/image-alts/after.html",
    "AltText": "People"
  },
  {
    "ImageURL": "https://placeimg.com/640/480/arch",
-   "PageURL": "https://github.com/russc/image-alt-text/after.html",
+   "PageURL": "https://russc.github.io/image-alts/after.html",
    "AltText": "Archetecture"
  },
  {
    "ImageURL": "https://placeimg.com/640/480/nature",
-   "PageURL": "https://github.com/russc/image-alt-text/after.html",
+   "PageURL": "https://russc.github.io/image-alts/after.html",
    "AltText": "Nature"
  },
  {
    "ImageURL": "https://placeimg.com/640/480/tech",
-   "PageURL": "https://github.com/russc/image-alt-text/after.html",
+   "PageURL": "https://russc.github.io/image-alts/after.html",
    "AltText": "Technology"
  }
  
