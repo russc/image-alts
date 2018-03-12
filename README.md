@@ -1,4 +1,4 @@
-# image-alts
+# Add Alt Text to Images on Dynamic URLs
 It is not uncommon for a large website you manage to need alt text images added after the images have beeen uploaded and gone live.  In some cases, the images end up running on the site without an alt text attribute, which is not good for accessibility. 
 
 This can be very difficult with large sites that have specific alt text based on the image and its url.  This little library can take a JSON file and iterate through it to target specific images on specific dynmaically created URLs and add alt text attributes where they are missing.  
