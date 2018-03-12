@@ -1,0 +1,41 @@
+body {
+  align-items: center;
+  display: flex;
+  flex-flow: column;
+  font-family: 'Questrial';
+  line-height: 3rem;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+
+}
+
+nav {
+  width: 100%;
+  background: mistyrose;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+}
+section {
+  width: 60%;
+}
+
+.images {
+  display: grid;
+  grid-template-columns: repeat(5, 20%);
+  justify-content: center;
+}
+
+img {
+  height: auto;
+  width: 100%;
+}
