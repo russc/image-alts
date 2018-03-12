@@ -9,10 +9,19 @@ body {
   text-align: center;
 }
 
-a {
+a, a:visited {
   text-decoration: none;
+  color: cadetblue;
+  font-size: 1.4rem;
 
 }
+
+a:hover {
+  cursor: pointer;
+  border-bottom: 2px dotted cornflowerblue;
+  font-style: italic;
+}
+
 
 nav {
   width: 100%;
